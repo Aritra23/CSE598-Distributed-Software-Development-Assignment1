@@ -1,1 +1,2 @@
-# CSE598-Distributed-Software-Development-Assignment1
+# Distributed-Software-Development-Assignment1
+Web Form using WCF and ASP.NET
